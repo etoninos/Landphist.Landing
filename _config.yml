@@ -1,5 +1,11 @@
-theme: jekyll-theme-midnight
 title: Лэндфист
 description: > # this means to ignore newlines until next parameter
   Сервис ландшафтных фотоснимков
 timezone: Asia/Yekaterinburg
+
+# Параметры настройки: https://github.com/pages-themes/midnight
+theme: jekyll-theme-midnight
+# google_analytics: 
+show_downloads: true
+github:
+  zip_url: www.google.com
