@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+Лэндфист предоставляет доступ к повторным ландшафтным фотоснимкам, которые были сделаны с одной и той же точки съёмки в разное время. Повторные фотоснимки позволяют оценить динамику изображаемых растительных сообществ, которую связывают с климатическими изменениями, фиксируемыми за последние десятилетия, в том числе и на территории Урала.
 
-You can use the [editor on GitHub](https://github.com/PavelQuash/Landphist/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+Таганай, Митькины скалы
+![Таганай, Митькины скалы](https://uraloved.ru/images/news/ekb/les-podn-v-gori-3.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Таганай. Двуглавая сопка
+![Таганай. Двуглавая сопка](https://uraloved.ru/images/news/ekb/les-podn-v-gori-2.jpg)
 
 ### Markdown
 
