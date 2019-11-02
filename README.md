@@ -1,3 +1,5 @@
+# Описание
+
 Лэндфист предоставляет доступ к повторным ландшафтным фотоснимкам, которые были сделаны с одной и той же точки съёмки в разное время. Повторные фотоснимки позволяют оценить динамику изображаемых растительных сообществ, которую связывают с климатическими изменениями, фиксируемыми за последние десятилетия, в том числе и на территории Урала.
 
 Таганай, Митькины скалы
@@ -6,7 +8,9 @@
 Таганай. Двуглавая сопка
 ![Таганай. Двуглавая сопка](https://uraloved.ru/images/news/ekb/les-podn-v-gori-2.jpg)
 
-### Markdown
+# Установка
+
+# Обратная связь
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -29,10 +33,6 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PavelQuash/Landphist/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
