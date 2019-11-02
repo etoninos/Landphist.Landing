@@ -8,4 +8,7 @@ theme: jekyll-theme-midnight
 # google_analytics: 
 show_downloads: true
 github:
+  sasplanet_web: http://www.sasgis.org
+  sasplanet_dowload: http://www.sasgis.org/download/
+  sasplanet_lps_zmp: 
   zip_url: www.google.com
