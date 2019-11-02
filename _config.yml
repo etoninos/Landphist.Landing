@@ -1,1 +1,5 @@
 theme: jekyll-theme-midnight
+title: Лэндфист
+description: > # this means to ignore newlines until next parameter
+  Сервис ландшафтных фотоснимков.
+timezone: Asia/Yekaterinburg
