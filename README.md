@@ -6,34 +6,16 @@
 ![Таганай, Митькины скалы](https://uraloved.ru/images/news/ekb/les-podn-v-gori-3.jpg)
 
 Таганай. Двуглавая сопка
-![Таганай. Двуглавая сопка](https://uraloved.ru/images/news/ekb/les-podn-v-gori-2.jpg)
+![Таганай, Двуглавая сопка](https://uraloved.ru/images/news/ekb/les-podn-v-gori-2.jpg)
 
 # Установка
 
+Для просмотра фотоснимков необходимо установить приложение [`Sas.Планета`](http://www.sasgis.org){:target="_blank"} и добавить слой фотографий `Лэндфист`. `Sas.Планета` работает только под операционной системой `Windows`. По приведенным в верхней части страницы ссылкам, последовательно скачайте и установите приложение и слой фотографий.
+
+Слой снимков должен быть установлен в папку `...\Sas.Planet\Maps\sas.maps\` с картами приложения. При обновлении файлы перезаписываются.
+
+В запущенном приложении `Sas.Планета` нажмите на кнопку `Выбор слоев, отображаемых поверх основной карты`, затем в раскрывающейся группе `Лэндфист` выберите необходимые для отображения слои.
+
 # Обратная связь
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Для того, чтобы сообщить нам о проблеме, заведите [ишью](https://github.com/PavelQuash/Landphist/issues) на GitHub.
