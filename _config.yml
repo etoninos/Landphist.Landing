@@ -1,11 +1,13 @@
+# Параметры сайта
 title: Лэндфист
 description: > # this means to ignore newlines until next parameter
   Сервис ландшафтных фотоснимков
 timezone: Asia/Yekaterinburg
+analytics: 
+  google_analytics: UA-69737937-3
+  yandex_metrika: 56132614
 
-# Параметры настройки: https://github.com/pages-themes/midnight
-theme: jekyll-theme-midnight
-# google_analytics: 
+theme: jekyll-theme-midnight # Параметры настройки: https://github.com/pages-themes/midnight
 show_downloads: true
 urls:
   sasplanet_web: http://www.sasgis.org
