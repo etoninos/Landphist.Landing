@@ -47,7 +47,6 @@
       </div><!-- end header -->
 
     <div class="wrapper">
-
       <section>
         <div id="title">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
@@ -59,10 +58,12 @@
           -->
         </div>
 
+        <div align="center">
+          <img src="https://user-images.githubusercontent.com/6581890/68433663-e5e86d80-01d8-11ea-81b3-25d7be361608.png">
+        </div>
+        
         {{ content }}
-
       </section>
-
     </div>
 
     {% if site.analytics.google_analytics %}
