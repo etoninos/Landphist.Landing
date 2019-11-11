@@ -26,7 +26,7 @@
 
 Чтобы сообщить нам о проблеме, заведите [ишью](https://github.com/PavelQuash/Landphist/issues) на GitHub.
 
-# Api
+# API
 
 `/api/geo/box?minLatitude=...&maxLatitude=...&minLongitude=...&maxLongitude=...` - получение точек в формате `kml` в указанной области
 
