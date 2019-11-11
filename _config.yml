@@ -3,9 +3,10 @@ title: Лэндфист
 description: > # this means to ignore newlines until next parameter
   Сервис ландшафтных фотоснимков
 timezone: Asia/Yekaterinburg
-analytics: 
-  google_analytics: UA-69737937-3
-  yandex_metrika: 56132614
+
+api:
+  version: 2.0 alpha1
+  date: 06.11.2019
 
 theme: jekyll-theme-midnight # Параметры настройки: https://github.com/pages-themes/midnight
 show_downloads: true
@@ -13,3 +14,9 @@ urls:
   sasplanet_web: http://www.sasgis.org
   sasplanet_dowload: http://www.sasgis.org/download/
   sasplanet_lps_plugin: https://yadi.sk/d/bMaNtIaIYW_eLA
+
+analytics: 
+  google_analytics: UA-69737937-3
+  yandex_metrika: 56132614
+
+lightgrey
