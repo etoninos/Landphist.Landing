@@ -52,8 +52,14 @@
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
           <p>{{ site.description | default: site.github.project_tagline }}</p>
           <hr>
-          <span class="credits left"><img src="https://img.shields.io/badge/%D0%92%D0%B5%D1%80%D1%81%D0%B8%D1%8F-{{ site.api.version }}-lightgrey" alt="Версия API"/></span>
-          <span class="credits right"><img src="https://img.shields.io/badge/%D0%94%D0%B0%D1%82%D0%B0-{{ site.api.date }}-lightgrey" alt="Дата обновления"/></span>          
+          <span class="credits left">
+            <img src="https://img.shields.io/badge/%D0%92%D0%B5%D1%80%D1%81%D0%B8%D1%8F-{{ site.api.version }}-lightgrey" alt="Версия API"/>
+            &nbsp;
+            <img src="https://img.shields.io/badge/%D0%94%D0%B0%D1%82%D0%B0-{{ site.api.date }}-lightgrey" alt="Дата обновления"/>
+          </span>
+          <span class="credits right">
+            <a href="{{ site.urls.landphist_api_docs }}" target="_blank">API</a>
+          </span>
           <!--
             Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>
             Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a>
