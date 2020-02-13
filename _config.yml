@@ -14,7 +14,7 @@ urls:
   sasplanet_web: http://www.sasgis.org
   sasplanet_dowload: http://www.sasgis.org/download/
   sasplanet_lps_plugin: https://yadi.sk/d/bMaNtIaIYW_eLA
-  landphist_api_docs: https://landphist.azurewebsites.net/api/docs
+  landphist_api_docs: https://landphist-api.qshzone.ru/docs
 
 analytics: 
   google_analytics: UA-69737937-3
